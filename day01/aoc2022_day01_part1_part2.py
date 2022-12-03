@@ -15,4 +15,5 @@ top3 = sorted(sum_list, reverse=True)[:3]
 #Part 1 answer
 print("part1: ", str(max_num))
 
-print(sum(top3))
+# Part 2 answer
+print("part2: ", str(sum(top3)))
